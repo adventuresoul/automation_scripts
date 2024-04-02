@@ -1,1 +1,1 @@
-Bash scripts to automate tasks
+Bash, python scripts to automate tasks
